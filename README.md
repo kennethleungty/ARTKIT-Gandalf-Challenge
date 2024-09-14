@@ -20,4 +20,4 @@ Link to article: *Coming Soon*
 - [Play the Gandalf Challenge](https://medium.com/r/?url=https%3A%2F%2Fgandalf.lakera.ai%2F)
 
 ### Acknowledgements
-- Special thanks to
+- Special thanks to Sean Anggani, Andy Moon, Matthew Wong, Randi Griffin, and Andrea Gao!
