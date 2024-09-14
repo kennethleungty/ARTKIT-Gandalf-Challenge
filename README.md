@@ -6,7 +6,7 @@ Link to article: *Coming Soon*
 ### Background
 - As large language models (LLMs) become more widely adopted across different industries and domains, significant security risks have emerged and intensified. Several of these key concerns include breaches of data privacy, the potential for biases, and the risk of information manipulation.
 - Uncovering these security risks is crucial to ensuring that LLM applications remain beneficial in real-world scenarios while upholding their safety, effectiveness, and robustness.
-- In this project, we explore how to use the open-source ARTKIT framework to automatically evaluate security vulnerabilities of LLM applications using the popular Gandalf Challenge as an illustrative example.
+- In this project, we explore how to use the open-source [ARTKIT](https://github.com/BCG-X-Official/artkit) framework to automatically evaluate security vulnerabilities of LLM applications using the popular Gandalf Challenge as an illustrative example.
 
 <br>
 
