@@ -1,7 +1,13 @@
+# Archive files
+archive/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Cache
+cache/
 
 # C extensions
 *.so
@@ -129,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_artkit/
 
 # Spyder project settings
 .spyderproject

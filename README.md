@@ -1,1 +1,1 @@
-# ARTKIT-Gandalf-Challenge
+# Artkit-Gandalf
