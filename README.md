@@ -13,7 +13,7 @@ Link to article: *Coming Soon*
 <img src="assets/gandalf_level_7.png" alt="Alt text" width="500"/>
 
 ### Files
-- `gandalf_challenge_20240915.ipynb`: Jupyter notebook containing the codes for the walkthrough
+- `gandalf_challenge.ipynb`: Jupyter notebook containing the codes for the walkthrough
 
 ### References
 - [Official ARTKIT GitHub Repo](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FBCG-X-Official%2Fartkit)
