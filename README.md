@@ -8,9 +8,9 @@ Link to article: *Coming Soon*
 - Uncovering these security risks is crucial to ensuring that LLM applications remain beneficial in real-world scenarios while upholding their safety, effectiveness, and robustness.
 - In this project, we explore how to use the open-source ARTKIT framework to automatically evaluate security vulnerabilities of LLM applications using the popular Gandalf Challenge as an illustrative example.
 
-<br><br>
+<br>
 
-<img src="assets/gandalf_level_7.png" alt="Alt text" width="400"/>
+<img src="assets/gandalf_level_7.png" alt="Alt text" width="500"/>
 
 ### Files
 - `gandalf_challenge_20240915.ipynb`: Jupyter notebook containing the codes for the walkthrough
