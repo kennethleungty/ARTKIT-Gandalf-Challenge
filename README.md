@@ -1,7 +1,7 @@
 # Exposing Jailbreak Vulnerabilities in LLM Applications with ARTKIT
 ## Automated prompt-based testing to extract passwords from the Gandalf Challenge's LLM system
 
-Link to article: *Coming Soon*
+Link to article: https://towardsdatascience.com/exposing-jailbreak-vulnerabilities-in-llm-applications-with-artkit-d2df5f56ece8
 
 ### Background
 - As large language models (LLMs) become more widely adopted across different industries and domains, significant security risks have emerged and intensified. Several of these key concerns include breaches of data privacy, the potential for biases, and the risk of information manipulation.
